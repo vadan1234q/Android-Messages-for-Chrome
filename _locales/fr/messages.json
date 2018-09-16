@@ -1,0 +1,42 @@
+{
+  "appDesc": {
+    "message": "A nicely packaged (unofficial) app for https://messages.android.com/"
+  },
+
+
+  "rate_doYouLike": {
+    "message": "Aimez-vous app?"
+  },
+  "rate_rate5star": {
+    "message": "Cliquer ici et notez avec 5 étoiles"
+  },
+  "rate_fb": {
+    "message": "Cliquer ici pour le partager sur Facebook"
+  },
+  "rate_link": {
+    "message": "Cliquer ici pour copier l'addresse du Chrome Store et la partager"
+  },
+  "rate_remindMe": {
+    "message": "Me le rappeller demain"
+  },
+  "rate_dontRemindMe": {
+    "message": "Ne pas réafficher"
+  },
+
+
+  "share_menu_title": {
+    "message": "Partager cette application avec vos amis"
+  },
+  "share_fb": {
+    "message": "Partager sur Facebook"
+  },
+  "share_twitter": {
+    "message": "Partager sur Twitter"
+  },
+  "share_twitter_payload": {
+    "message": "An awesome unofficial way to view https://messages.android.com/ better! #android http://goo.gl/InsertThisLater"
+  },
+  "share_link": {
+    "message": "Copier l'addresse du Chrome Store"
+  }
+}
